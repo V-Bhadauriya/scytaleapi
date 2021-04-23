@@ -3,7 +3,7 @@
 package routes
 
 import (
-"github.com/V-Bhadauriya/GO-RESTApi/api/controllers"
+"github.com/V-Bhadauriya/scytaleapi/api/controllers"
 "net/http"
 )
 
