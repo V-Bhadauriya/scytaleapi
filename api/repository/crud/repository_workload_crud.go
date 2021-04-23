@@ -3,8 +3,8 @@ package crud
 import (
 
 "github.com/jinzhu/gorm"
-"github.com/sandatasystem/scytaleapi/api/models"
-"github.com/sandatasystem/scytaleapi/api/utils/channels"
+"github.com/V-Bhadauriya/scytaleapi/api/models"
+"github.com/V-Bhadauriya/scytaleapi/api/utils/channels"
 )
 
 // RepositoryPostsCRUD is the struct for the Post CRUD

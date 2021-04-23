@@ -2,9 +2,9 @@ package auto
 
 import (
 "fmt"
-"github.com/sandatasystem/scytale/api/database"
-"github.com/sandatasystem/scytale/api/models"
-"github.com/sandatasystem/scytale/api/utils/console"
+"github.com/V-Bhadauriya/scytale/api/database"
+"github.com/V-Bhadauriya/scytale/api/models"
+"github.com/V-Bhadauriya/scytale/api/utils/console"
 "log"
 "strings"
 )

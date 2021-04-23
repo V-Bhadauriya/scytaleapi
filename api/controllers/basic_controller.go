@@ -5,11 +5,11 @@ import (
 	"net/http"
 	_ "encoding/json"
 	"github.com/gorilla/mux"
-	"github.com/sandatasystem/scytaleapi/api/database"
-	"github.com/sandatasystem/scytaleapi/api/models"
-	"github.com/sandatasystem/scytaleapi/api/repository"
-	"github.com/sandatasystem/scytaleapi/api/repository/crud"
-	"github.com/sandatasystem/scytaleapi/api/responses"
+	"github.com/V-Bhadauriya/scytaleapi/api/database"
+	"github.com/V-Bhadauriya/scytaleapi/api/models"
+	"github.com/V-Bhadauriya/scytaleapi/api/repository"
+	"github.com/V-Bhadauriya/scytaleapi/api/repository/crud"
+	"github.com/V-Bhadauriya/scytaleapi/api/responses"
 
 )
 

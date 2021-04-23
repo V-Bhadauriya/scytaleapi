@@ -2,7 +2,7 @@ package database
 
 import (
 	"github.com/jinzhu/gorm"
-	"github.com/sandatasystem/scytaleapi/config"
+	"github.com/V-Bhadauriya/scytaleapi/config"
 )
 
 // Connect to the DATABASE

@@ -3,7 +3,7 @@
 package routes
 
 import (
-"github.com/sandatasystem/GO-RESTApi/api/controllers"
+"github.com/V-Bhadauriya/GO-RESTApi/api/controllers"
 "net/http"
 )
 

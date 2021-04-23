@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/sandatasystem/scytaleapi/api"
+	"github.com/V-Bhadauriya/scytaleapi/api"
 )
 
 func main() {

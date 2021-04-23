@@ -1,7 +1,7 @@
 package auto
 
 import (
-"github.com/sandatasystem/scytaleapi/api/models"
+"github.com/V-Bhadauriya/scytaleapi/api/models"
 )
 
 var workload = []models.Workload{

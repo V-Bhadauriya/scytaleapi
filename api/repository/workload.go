@@ -1,7 +1,7 @@
 package repository
 
 import (
-"github.com/sandatasystem/GO-RESTApi/api/models"
+"github.com/V-Bhadauriya/GO-RESTApi/api/models"
 )
 
 // PostRepository is the interface Post CRUD

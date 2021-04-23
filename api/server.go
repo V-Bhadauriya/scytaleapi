@@ -8,10 +8,10 @@ import (
 "log"
 "net/http"
 
-"github.com/sandatasystem/scytaleapi/auto"
-"github.com/sandatasystem/scytaleapi/config"
+"github.com/V-Bhadauriya/scytaleapi/auto"
+"github.com/V-Bhadauriya/scytaleapi/config"
 
-"github.com/sandatasystem/scytaleapi/api/router"
+"github.com/V-Bhadauriya/scytaleapi/api/router"
 )
 
 func init() {

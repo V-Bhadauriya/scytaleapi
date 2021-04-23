@@ -3,7 +3,7 @@ package router
 
 import (
 "github.com/gorilla/mux"
-"github.com/sandatasystem/scytaleapi/api/router/routes"
+"github.com/V-Bhadauriya/scytaleapi/api/router/routes"
 )
 
 // New routes
