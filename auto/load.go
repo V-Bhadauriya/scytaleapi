@@ -28,7 +28,7 @@ func Load() {
 		}
 
 		for i, _ := range workload {
-			err = db.Debug().Model(&models.workload{}).Create(&workload[i]).Error
+			err = db.Debug().Model(&models.Workload{}).Create(&workload[i]).Error
 			if err != nil {
 				log.Fatal(err)
 			}

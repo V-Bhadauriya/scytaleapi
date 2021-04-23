@@ -13,5 +13,15 @@ var basicRoutes = []Route{
 		Method:  http.MethodGet,
 		Handler: controllers.Ping,
 	},
+	Route{
+		URI:     "/api/v1/workloads",
+		Method:  http.MethodGet,
+		Handler: controllers.GetWorkloads,
+	},
+	Route{
+		URI:     "/api/v1/workload",
+		Method:  http.MethodPost,
+		Handler: controllers.CreateWorkload,
+	},
 
 }

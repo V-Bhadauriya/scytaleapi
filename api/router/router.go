@@ -10,5 +10,5 @@ import (
 
 func New() *mux.Router {
 	r := mux.NewRouter().StrictSlash(true)
-	return routes.Load(r)
+	return routes.SetupRoutes(r)
 }

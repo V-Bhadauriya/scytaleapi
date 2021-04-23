@@ -20,9 +20,9 @@ func (w *Workload) Validate() error {
 		return errors.New("SpiffeID is required")
 	}
 
-	if w.Selectors == "" {
-		return errors.New("SpiffeID is required")
-	}
+	//if w.Selectors == "" {
+	//	return errors.New("SpiffeID is required")
+	//}
 
 
 	return nil
