@@ -2,11 +2,11 @@ package auto
 
 import (
 "fmt"
-"github.com/V-Bhadauriya/scytale/api/database"
-"github.com/V-Bhadauriya/scytale/api/models"
-"github.com/V-Bhadauriya/scytale/api/utils/console"
+"github.com/V-Bhadauriya/scytaleapi/api/database"
+"github.com/V-Bhadauriya/scytaleapi/api/models"
+"github.com/V-Bhadauriya/scytaleapi/api/utils/console"
 "log"
-"strings"
+
 )
 
 // Load autogenerates the tables and records
