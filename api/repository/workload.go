@@ -1,7 +1,7 @@
 package repository
 
 import (
-"github.com/V-Bhadauriya/GO-RESTApi/api/models"
+"github.com/V-Bhadauriya/scytaleapi/api/models"
 )
 
 // PostRepository is the interface Post CRUD
